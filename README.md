@@ -13,7 +13,7 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?show_icons=true&theme=transparent&username=oOBobbyOo" height="160" alt="stats graph"  />
   &nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&theme=transparent&username=oOBobbyOo" height="160" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?layout=compact&card_width=380&theme=transparent&username=oOBobbyOo" height="160" alt="languages graph"  />
 </div>
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oOBobbyOo&show_icons=true&theme=transparent)
