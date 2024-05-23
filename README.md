@@ -1,10 +1,10 @@
-## Hi there 👋
+## 🙋‍♂️ Hi there 👋
 
 **I'm Henry Bobby —— A Frontend Developer.**
 
 ## 🚀 掌握及在学
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,vite,nuxt,ts,js,html,css,tailwind,sass,webpack,rollupjs,nodejs,git,vscode,solidjs,svelte,python,php&perline=10)](https://github.com/oOBobbyOo)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,vite,nuxt,pinia,ts,js,html,css,tailwind,less,sass,styledcomponents,webpack,rollupjs,nodejs,git,vscode,ps,pnpm,flutter,solidjs,svelte,python,php&perline=10)](https://github.com/oOBobbyOo)
 
 ## 👨‍💻 Statistics
 
